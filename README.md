@@ -1,2 +1,2 @@
 # DataBootcamp
-Repositorio relacionado al Bootcampo de Data (Data Academy) de Accenture
+Repositorio relacionado al Bootcamp de Data (Data Academy) de Accenture
